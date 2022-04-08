@@ -13,7 +13,11 @@ https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-ext
 ------------------------------------------------------------------------------
 
 Relatório: Arquivo PDF entitulado "Meu TCC.doc"
+
 Notebook criato: "baseComexTcc.ipynb"
+
 Arquivos no dropBox tendo em vista tamanho:
+
 Link para o vídeo no youtube:
+
 Endereço repositório git: https://github.com/diegobbarbosa/tcc
