@@ -16,8 +16,9 @@ Relatório: "Meu TCC.pdf"
 
 Notebook criato: "baseComexTcc.ipynb"
 
-Arquivos no dropBox (tendo em vista tamanho):
-
 Link para o vídeo no youtube: https://youtu.be/BWL1G6LqT7c
+
+Arquivos no dropBox (tendo em vista tamanho):
+https://www.dropbox.com/sh/8u27g1j40vifp0t/AACrMbcw4NI0gKhA3E_GiIlDa?dl=0
 
 Endereço repositório git: https://github.com/diegobbarbosa/tcc
