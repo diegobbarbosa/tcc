@@ -18,6 +18,6 @@ Notebook criato: "baseComexTcc.ipynb"
 
 Arquivos no dropBox (tendo em vista tamanho):
 
-Link para o vídeo no youtube:
+Link para o vídeo no youtube: https://youtu.be/BWL1G6LqT7c
 
 Endereço repositório git: https://github.com/diegobbarbosa/tcc
