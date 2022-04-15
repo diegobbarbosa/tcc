@@ -13,7 +13,8 @@ https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-ext
 
 ------------------------------------------------------------------------------
 
-Relatório: "Meu TCC.pdf"
+Relatório: "Meu TCC.pdf":
+https://github.com/diegobbarbosa/tcc/blob/main/Meu%20TCC%20-%20Diego%20de%20Borba%20Barbosa.pdf
 
 Notebook criato: "baseComexTcc.ipynb"
 https://github.com/diegobbarbosa/tcc/blob/main/baseComexTcc.ipynb
