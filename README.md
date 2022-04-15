@@ -16,6 +16,7 @@ https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-ext
 Relatório: "Meu TCC.pdf"
 
 Notebook criato: "baseComexTcc.ipynb"
+https://github.com/diegobbarbosa/tcc/blob/main/baseComexTcc.ipynb
 
 Link para o vídeo no youtube: https://youtu.be/BWL1G6LqT7c
 
