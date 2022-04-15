@@ -25,7 +25,7 @@ Link para o vídeo no youtube:
 
 https://youtu.be/BWL1G6LqT7c
 
-Arquivos no dropBox (tendo em vista tamanho):
+Arquivos do dataset, dentre outros, estão no dropBox (tendo em vista tamanho):
 
 https://www.dropbox.com/sh/8u27g1j40vifp0t/AACrMbcw4NI0gKhA3E_GiIlDa?dl=0
 
